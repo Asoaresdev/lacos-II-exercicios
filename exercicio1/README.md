@@ -8,3 +8,5 @@ Crie um laco `for` que itere pelo array deixado no arquivo `script.js`, e em seq
 Jogador 1: 13, 15, 25, 34, 35
 Jogador 2: 30, 48, 30, 12, 47
 ```
+
+
